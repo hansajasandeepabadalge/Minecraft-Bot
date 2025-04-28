@@ -15,8 +15,8 @@ A Minecraft bot that can automatically engage in PVP combat, guard areas, and de
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Minecraft-PVP-Bot.git
-   cd Minecraft-PVP-Bot
+   https://github.com/hansajasandeepabadalge/Minecraft-Bot
+   cd Minecraft-Bot
    ```
 
 2. Install dependencies:
